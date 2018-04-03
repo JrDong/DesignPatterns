@@ -1,6 +1,7 @@
 *.iml
 .gradle
 /local.properties
+.idea
 
 .DS_Store
 /build
@@ -42,7 +43,6 @@ proguard/
 captures/
 
 # Intellij
-.idea
 
 # Keystore files
 *.jks
